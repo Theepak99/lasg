@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.037163cc.css",
+    "main.js": "/static/js/main.818328c1.js",
+    "static/media/notcoin.png": "/static/media/notcoin.e1b7132d8f3df85a2749.png",
+    "index.html": "/index.html",
+    "main.037163cc.css.map": "/static/css/main.037163cc.css.map",
+    "main.818328c1.js.map": "/static/js/main.818328c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.037163cc.css",
+    "static/js/main.818328c1.js"
+  ]
+}
